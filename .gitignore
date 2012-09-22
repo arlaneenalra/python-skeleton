@@ -29,3 +29,6 @@ pip-log.txt
 #vim and other editors
 *.sw?
 *~
+
+# Generated files
+MANIFEST
