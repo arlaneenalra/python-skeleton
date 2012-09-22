@@ -25,3 +25,10 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#vim and other editors
+*.sw?
+*~
+
+# Generated files
+MANIFEST
