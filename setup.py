@@ -21,8 +21,8 @@ Note: Licensing only applies to the skeleton itself, should you use this
       ],
       license = 'License :: OSI Approved :: BSD License',
       packages = [],
-      package_dir = { '': 'lib'},
       scripts = [],
       py_modules = [],
+      package_dir = { '': 'lib'},
 )
 
