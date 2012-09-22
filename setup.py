@@ -22,7 +22,7 @@ Note: Licensing only applies to the skeleton itself, should you use this
       license = 'License :: OSI Approved :: BSD License',
       packages = [],
       scripts = [],
-      requires = [],
+      install_requires = [],
       package_dir = { '': 'lib'},
 )
 
