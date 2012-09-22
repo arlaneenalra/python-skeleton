@@ -19,7 +19,9 @@ Note: Licensing only applies to the skeleton itself, should you use this
       classifiers = [
         'License :: OSI Approved :: BSD License'
       ],
+      license = 'License :: OSI Approved :: BSD License',
       packages = [],
+      package_dir = { '': 'lib'},
       scripts = [],
       py_modules = [],
 )
